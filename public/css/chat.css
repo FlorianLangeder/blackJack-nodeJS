@@ -1,0 +1,20 @@
+#chat {
+	position: fixed; 
+    bottom: 0; 
+   	width: 100%;
+	overflow: auto;
+	border-top:solid;
+	border-width:1px;
+}
+
+#chatlog{
+	min-height: 100px;
+	height: 20%;
+	max-height: 100px;
+	overflow: auto;
+	pointer-events: none;
+}
+
+#msgInput {
+	width: 50%;
+}

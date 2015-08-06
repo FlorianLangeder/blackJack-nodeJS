@@ -1,0 +1,26 @@
+.card{
+	width:73px;
+	height:98px;
+	background-image: url("/img/cardBack.png");
+}
+
+.green{
+	color: green;
+}
+
+.red{
+	color: red;
+}
+
+.curPlayer {
+	border-style:solid;
+	border-width:1px;
+}
+
+th {
+	width: 70px;
+}
+
+#canvas {
+	overflow:scroll;
+}
